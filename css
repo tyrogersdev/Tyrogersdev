@@ -1,0 +1,13 @@
+<your-username>.github.io/
+├─ _config.yml                ← site settings & your social links/avatar path
+├─ index.md                   ← HEADER (home page hero text)
+├─ _data/
+│  └─ navigation.yml          ← top navbar links (Projects, Certs, YouTube, Reach out)
+├─ _pages/
+│  ├─ projects.md             ← Projects section (your labs/repos)
+│  ├─ certifications.md       ← Certifications section
+│  ├─ youtube.md              ← YouTube section (video embeds)
+│  └─ contact.md              ← “Reach out & connect” (LinkedIn/GitHub/Email)
+└─ assets/
+   └─ img/
+      └─ profile.jpg          ← your profile picture file
