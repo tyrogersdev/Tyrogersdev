@@ -12,11 +12,10 @@
 </p>
 
 <p align="center">
-  <!-- replace 'ty-rogers' everywhere below -->
-  <a href="https://github.com/🔧your-username"><img alt="GitHub followers" src="https://img.shields.io/github/followers/🔧your-username?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/ty-rogers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ty-rogers?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/tyrogers-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/@Tyrogerscyber"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:🔧you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ty.rogers.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
