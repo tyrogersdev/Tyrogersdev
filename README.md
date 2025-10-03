@@ -6,7 +6,7 @@
 <!-- Headline & quick badges -->
 <h1 align="center">Ty Rogers</h1>
 <p align="center">
-  <b>Aspiring Cybersecurity • Cloud • AI-Security Professional</b><br/>
+  <b>Upcoming Cybersecurity • Cloud • AI-Security Professional</b><br/>
   Building foundational labs, documenting learning steps, and steadily working toward entry-level cyber roles.
 </p>
 
