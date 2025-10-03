@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="assets/banner.svg" alt="Cybersecurity • Cloud • Automation" width="100%" />
@@ -7,8 +6,8 @@
 <!-- Headline & quick badges -->
 <h1 align="center">Ty Rogers</h1>
 <p align="center">
-  <b>Cybersecurity • Cloud • Automation</b><br/>
-  Building end-to-end labs, writing clear docs, and shipping small tools that mirror real entry-level security work.
+  <b>Aspiring Cybersecurity • Cloud • AI-Security Professional</b><br/>
+  Building foundational labs, documenting learning steps, and steadily working toward entry-level cyber roles.
 </p>
 
 <p align="center">
@@ -22,93 +21,63 @@
 
 ## About
 - 📍 Lexington, KY  
-- 💼 Body-shop estimator → **Cybersecurity & Cloud**  
-- 🎯 Target roles: SOC Analyst, Cloud Security, Detection Engineering → **AI-Security**  
-- 🧰 Stack: Wazuh/Elastic, Windows/AD, Terraform/Bicep, Python/PowerShell  
-- 🧠 Interests: Blue team, guardrails, practical automation
+- 💼 Body-shop estimator → **Transitioning to Cybersecurity & Cloud**  
+- 🎯 Target roles: SOC Analyst, Cloud Security, IAM → **AI-Security / Governance**  
+- 🧠 Interests: Blue team fundamentals, compliance, guardrails, and practical automation  
 
-> I like small, reproducible builds that show outcome: *simulate → detect → investigate → mitigate*.
+> I'm documenting my learning journey openly. Labs may start simple, but the goal is: *simulate → detect → investigate → mitigate.*
 
 ---
 
-## Skills
+## Skills (Learning Journey)
 <div align="center">
 
-| Blue Team | Cloud | Scripting | Infra/IaC | OS & Directory |
+| Blue Team (Starting) | Cloud (Exploring) | Scripting (Basics) | Infra/IaC (Future Learning) | OS & Directory (Early Labs) |
 |---|---|---|---|---|
-| Wazuh, Sigma, Sysmon, Windows Eventing | AWS, Azure (MFA, IAM, logging) | Python, PowerShell | Terraform, Bicep, Docker | Windows Server, AD DS, GPO |
+| Google Cybersecurity Labs, Wireshark (pcaps), Nessus (essentials) | GCP intro, AWS basics (IAM, MFA) | Python (scripts), PowerShell (commands) | Terraform/Docker (planned) | Windows Server intro, AD (lab build in progress) |
 
 </div>
 
 ---
 
-## Flagship Projects
-> 3 high-signal labs (stubs now; repos will be linked as they go live). Each has **TL;DR**, reproducible steps, and a short video.
+## Projects (In Progress)
+These are **planned repos** to be released as I complete each lab. For now they act as a public roadmap.
 
-| Project | Focus | Tech | Repo | CI |
-|---|---|---|---|---|
-| **Home SOC Lab** | Endpoint → Wazuh → Elastic; Sigma alerts; triage notes | Wazuh, Sysmon, Elastic, Sigma | 🔧 _coming soon_ | ![CI](https://img.shields.io/badge/setup-pending-lightgrey) |
-| **Active Directory Mini-Enterprise** | Simulate → Detect → Harden (AS-REP roast demo) | Windows Server, AD, PowerShell | 🔧 _coming soon_ | ![CI](https://img.shields.io/badge/scripts-pending-lightgrey) |
-| **Cloud Guardrails Baseline** | MFA, least-priv, logging, IaC + GitHub Actions checks | AWS/Azure, Terraform/Bicep | 🔧 _coming soon_ | ![CI](https://img.shields.io/badge/IaC_checks-pending-lightgrey) |
-
-<details>
-  <summary><b>Project details (expand)</b></summary>
-
-### 1) Home SOC Lab (Wazuh + Sysmon + Elastic)
-**TL;DR:** Detect failed-RDP brute force and suspicious process chains; alert in Wazuh; investigate in Elastic.  
-**Artifacts (planned):** docker-compose / setup scripts, Sigma rules, sample alerts, investigation notes, short video.
-
-### 2) Active Directory Mini-Enterprise + Detections
-**TL;DR:** Small AD domain w/ users & GPOs; simulate AS-REP roast; write detections; mitigate misconfigs.  
-**Artifacts (planned):** PowerShell user/GPO scripts, attack simulation steps, detection artifacts & hardening checklist.
-
-### 3) Cloud Guardrails Baseline (AWS/Azure)
-**TL;DR:** IaC for secure-by-default: enforce MFA, least-priv, logging; CI on PRs runs fmt/validate/tflint.  
-**Artifacts (planned):** Terraform/Bicep, GitHub Actions workflow, sample CloudTrail/Log Analytics alerts.
-
-</details>
+| Project | Focus | Tech | Status |
+|---|---|---|---|
+| **Home SOC Lab** | Detect failed logins + suspicious processes | Wazuh, Sysmon, Elastic | 🟡 In Progress |
+| **Active Directory Mini-Enterprise** | Build domain, simulate attack, detect & harden | Windows Server, AD DS, PowerShell | 🔜 Planned |
+| **Cloud Guardrails Baseline** | IAM, MFA, logging, least-privilege with IaC | AWS, Azure, Terraform | 🔜 Planned |
 
 ---
 
 ## Certifications
-> I list what each cert **enables me to do** (not just the badge). Verification links will go here.
 
-- **Google Cybersecurity Certificate** — *2025* — 🔧 [Verify](#)  
-  - *Enables:* Baseline SOC triage, ticket writing, log analysis fundamentals.
-- **CompTIA Security+ (SY0-701)** — *In progress* — 🔧 [Study notes](#)  
-  - *Enables:* Security fundamentals, risk basics, common controls & response.
-- **AZ-900 / AWS CLF-C02** — *Planned* — 🔧 [Roadmap](#)  
-  - *Enables:* Cloud core services, IAM/MFA basics, logging & shared responsibility.
-
----
-
-## YouTube — Lab Walkthroughs
-> Clickable thumbnails (short videos). Replace the IDs with your real uploads.
-
-[![Wazuh + Elastic: Building a Home SOC](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Wazuh + Elastic: Building a Home SOC")
-[![Active Directory: Attack → Detect → Mitigate](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Active Directory: Attack → Detect → Mitigate")
+- **Google Cybersecurity Certificate** - (In Progress)  
+  - *Covers:* SOC fundamentals, log analysis, risk basics.  
+- **CompTIA Security+ (SY0-701)** - (Scheduled)  
+  - *Covers:* Core security controls, threat detection, responses.
 
 ---
 
 ## Roadmap (next 4–6 weeks)
-- [ ] Publish **Home SOC** repo + 8-min walkthrough  
-- [ ] Publish **AD lab** repo + attack/detect notes  
-- [ ] Publish **Cloud guardrails** IaC + CI (fmt/validate/tflint)  
-- [ ] Write “What I learned” post for each lab
+- [ ] Publish **Wireshark traffic analysis** repo (filters + screenshots)  
+- [ ] Publish **Linux hardening basics** repo (ufw, users, ssh config)  
+- [ ] Document **Active Directory lab setup** (users, groups, GPOs)  
+- [ ] Write “What I learned” post for each repo  
 
 ---
 
 ## Reach out
 - 💼 **LinkedIn:** https://www.linkedin.com/in/tyrogers-dev/  
-- 🧑‍💻 **GitHub:** https://github.com/🔧your-username  
-- ▶️ **YouTube:** https://www.youtube.com/@🔧your-channel  
-- ✉️ **Email:** 🔧you@example.com
+- 🧑‍💻 **GitHub:** https://github.com/ty-rogers  
+- ▶️ **YouTube:** https://www.youtube.com/@Tyrogerscyber  
+- ✉️ **Email:** ty.rogers.dev@gmail.com
 
 ---
 
 <p align="center">
-  <sub>Theme: simple README + shields. CI badge below shows this profile’s checks are healthy.</sub><br/>
-  <a href="https://github.com/🔧your-username/🔧your-username/actions">
-    <img alt="README CI" src="https://img.shields.io/github/actions/workflow/status/🔧your-username/🔧your-username/readme-ci.yml?label=readme%20CI&logo=github&style=for-the-badge">
-  </a>
+  <sub>This README is part portfolio, part roadmap. It’s updated as new labs are published.</sub>
+</p>
+
 </p>
