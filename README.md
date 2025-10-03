@@ -46,7 +46,7 @@ These are **planned repos** to be released as I complete each lab. For now they 
 | Project | Focus | Tech | Status |
 |---|---|---|---|
 | **Home SOC Lab** | Detect failed logins + suspicious processes | Wazuh, Sysmon, Elastic | 🟡 In Progress |
-| **Active Directory Mini-Enterprise** | Build domain, simulate attack, detect & harden | Windows Server, AD DS, PowerShell | 🔜 Planned |
+| **Active Directory / Entra ID Lab** | Users, groups, conditional access, detections | Entra ID, Windows Server, PowerShell | [Repo](https://github.com/tyrogersdev/Entra-ID-Lab) | 🟡 In Progress |
 | **Cloud Guardrails Baseline** | IAM, MFA, logging, least-privilege with IaC | AWS, Azure, Terraform | 🔜 Planned |
 
 ---
