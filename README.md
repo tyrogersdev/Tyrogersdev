@@ -99,7 +99,7 @@
 ---
 
 ## Reach out
-- 💼 **LinkedIn:** https://www.linkedin.com/in/🔧your-handle  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/tyrogers-dev/  
 - 🧑‍💻 **GitHub:** https://github.com/🔧your-username  
 - ▶️ **YouTube:** https://www.youtube.com/@🔧your-channel  
 - ✉️ **Email:** 🔧you@example.com
