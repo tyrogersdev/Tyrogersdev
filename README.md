@@ -42,7 +42,7 @@ I’m 20 and transitioning from body-shop estimating into cybersecurity. I’m k
 | Lab | What I did | Proof |
 |---|---|---|
 | **Entra ID – My First Lab** | Registered a test app, signed in, looked at tokens at a high level, and checked **Access Reviews** and **PIM**. | Screenshots in repo README (no code required) |
-| **Entra – Access Reviews Quick Pass** *(planned)* | Create a group, add/remove members, run a review, capture results. | Screenshots |
+| **Entra – Access Reviews Quick Pass** | Create a group, add/remove members, run a review, capture results. | Screenshots |
 | **Entra – PIM Basics** *(planned)* | Activate a role temporarily and confirm it logs/records. | Screenshots |
 
 > I’ll keep these small and honest. Each one shows exactly what I did and what I learned.
@@ -56,10 +56,6 @@ I’m 20 and transitioning from body-shop estimating into cybersecurity. I’m k
 - [ ] Optional: try **Graph Explorer** once (GET `/me`) and screenshot the result
 
 ---
-
-## How to use my repos
-- Open the lab README → follow the steps → compare with screenshots  
-- Everything is simple and reproducible—no guesswork, no fluff
 
 ---
 
