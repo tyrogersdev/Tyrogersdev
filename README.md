@@ -1,13 +1,12 @@
-<!-- Banner -->
+<!-- Banner (optional) -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Cybersecurity • Cloud • Automation" width="100%" />
+  <img src="assets/banner.svg" alt="Identity • Access • Beginner Labs" width="100%" />
 </p>
 
-<!-- Headline & quick badges -->
 <h1 align="center">Ty Rogers</h1>
 <p align="center">
-  <b>Upcoming Cybersecurity • Cloud • AI-Security Professional</b><br/>
-  Building foundational labs, documenting learning steps, and steadily working toward entry-level cyber roles.
+  <b>Breaking into Cybersecurity • Focus: Identity & Access (IAM)</b><br/>
+  Small, honest labs. Clear notes. Proof of what I did.
 </p>
 
 <p align="center">
@@ -20,64 +19,55 @@
 ---
 
 ## About
+I’m 20 and transitioning from body-shop estimating into cybersecurity. I’m keeping things simple and focused on **Identity & Access**—how people sign in, what they’re allowed to do, and how to keep that clean.
+
 - 📍 Lexington, KY  
-- 💼 Body-shop estimator → **Transitioning to Cybersecurity & Cloud**  
-- 🎯 Target roles: SOC Analyst, Cloud Security, IAM → **AI-Security / Governance**  
-- 🧠 Interests: Blue team fundamentals, compliance, guardrails, and practical automation  
-
-> I'm documenting my learning journey openly. Labs may start simple, but the goal is: *simulate → detect → investigate → mitigate.*
+- 🎯 Target: **Entry-level IAM / identity support / junior admin**  
+- 🧭 Approach: ship small labs, write plain-English notes, include screenshots
 
 ---
 
-## Skills (Learning Journey)
-<div align="center">
+## What I’m learning (IAM first)
+- ✅ **Accounts & roles:** who has access and why  
+- ✅ **Sign-in basics:** what happens when you log in  
+- ✅ **Least privilege:** only the access you need  
+- ✅ **Reviews & JIT:** Access Reviews, PIM (turn access on only when needed)  
+- 🧪 **Tokens at a glance:** very basic “who I am” vs “what I can do”
 
-| Blue Team (Starting) | Cloud (Exploring) | Scripting (Basics) | Infra/IaC (Future Learning) | OS & Directory (Early Labs) |
-|---|---|---|---|---|
-| Google Cybersecurity Labs, Wireshark (pcaps), Nessus (essentials) | GCP intro, AWS basics (IAM, MFA) | Python (scripts), PowerShell (commands) | Terraform/Docker (planned) | Windows Server intro, AD (lab build in progress) |
-
-</div>
-
----
-
-## Projects (In Progress)
-These are **planned repos** to be released as I complete each lab. For now they act as a public roadmap.
-
-| Project | Focus | Tech | Status |
-|---|---|---|---|
-| **Home SOC Lab** | Detect failed logins + suspicious processes | Wazuh, Sysmon, Elastic | 🟡 In Progress |
-| **Active Directory / Entra ID Lab** | Users, groups, conditional access, detections | Entra ID, Windows Server, PowerShell | [Repo](https://github.com/tyrogersdev/Entra-ID-Lab) | 🟡 In Progress |
-| **Cloud Guardrails Baseline** | IAM, MFA, logging, least-privilege with IaC | AWS, Azure, Terraform | 🔜 Planned |
+> I’m staying beginner-friendly on purpose. I’ll add depth as labs grow.
 
 ---
 
-## Certifications
+## Current Labs (small but real)
+| Lab | What I did | Proof |
+|---|---|---|
+| **Entra ID – My First Lab** | Registered a test app, signed in, looked at tokens at a high level, and checked **Access Reviews** and **PIM**. | Screenshots in repo README (no code required) |
+| **Entra – Access Reviews Quick Pass** *(planned)* | Create a group, add/remove members, run a review, capture results. | Screenshots |
+| **Entra – PIM Basics** *(planned)* | Activate a role temporarily and confirm it logs/records. | Screenshots |
 
-- **Google Cybersecurity Certificate** - (In Progress)  
-  - *Covers:* SOC fundamentals, log analysis, risk basics.  
-- **CompTIA Security+ (SY0-701)** - (Scheduled)  
-  - *Covers:* Core security controls, threat detection, responses.
-
----
-
-## Roadmap (next 4–6 weeks)
-- [ ] Publish **Wireshark traffic analysis** repo (filters + screenshots)  
-- [ ] Publish **Linux hardening basics** repo (ufw, users, ssh config)  
-- [ ] Document **Active Directory lab setup** (users, groups, GPOs)  
-- [ ] Write “What I learned” post for each repo  
+> I’ll keep these small and honest. Each one shows exactly what I did and what I learned.
 
 ---
 
-## Reach out
+## Roadmap (next few weeks)
+- [ ] Add short “What I learned” bullets to each lab  
+- [ ] Do a **portal-only** lab for group + role assignment (with screenshots)  
+- [ ] Add one page explaining tokens in plain English  
+- [ ] Optional: try **Graph Explorer** once (GET `/me`) and screenshot the result
+
+---
+
+## How to use my repos
+- Open the lab README → follow the steps → compare with screenshots  
+- Everything is simple and reproducible—no guesswork, no fluff
+
+---
+
+## Contact
 - 💼 **LinkedIn:** https://www.linkedin.com/in/tyrogers-dev/  
 - 🧑‍💻 **GitHub:** https://github.com/ty-rogers  
-- ▶️ **YouTube:** https://www.youtube.com/@Tyrogerscyber  
 - ✉️ **Email:** ty.rogers.dev@gmail.com
 
----
-
 <p align="center">
-  <sub>This README is part portfolio, part roadmap. It’s updated as new labs are published.</sub>
-</p>
-
+  <sub>This profile is beginner-level by design. I’m here to learn, document, and steadily improve.</sub>
 </p>
